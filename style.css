@@ -1,0 +1,48 @@
+#kk .navbar-nav li a {
+    color: #858585;
+    font-size: 12px;
+    margin: 5px 0px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;/*æ–‡æœ¬é—´è·*/
+    /*font-family: 'Poppins', sans-serif;*/
+    background: none;
+}
+#kk .navbar-nav li a:hover {color: #aa81f3}
+a {
+    text-decoration: none !important;
+    /*text-decoration: none !important;*/
+    transition: all 0.3s;
+    /*background-color: transparent;*/
+}
+
+
+#qb1 h1 {color: #374760; padding: 130px 0 40px 0; font-size: 30px; font-weight: 600; letter-spacing: 2px; }
+#qb1 p {line-height: 24px; margin: 30px auto 40px auto; font-size: 16px; width: 65%; color: #97a0af}
+#qb1 a {background: rgba(153,112,226,.8); border: 1px solid rgba(153,112,226,.8); font-weight: 500;letter-spacing: 1px}
+#qb1 a:hover {background: rgba(153,112,226,1); border: 1px solid rgba(153,112,226,1)}
+
+
+#qb2 h3 {font-weight: 700; opacity: .9}
+#qb2 p, #qb4 p {line-height: 22px; color: #7B7B7B; font-size: 16px; margin-bottom: 10px}
+#qb2 .line {width: 50px; height: 3px; background: #aa81f3; margin: 20px 0 55px}
+#qb2 span {color: #aa81f3; font-size: 30px; display: block; margin-bottom: 20px}
+
+
+#qb3 h3, #qb4 h3 {color: #374760; margin: 100px auto 25px; font-weight: bold; text-align: center}
+#qb3 .line2, #qb4 .line3 {width: 50px; height: 3px; background: #aa81f3; margin: 20px auto}
+#qb3 .tubiao {display: block; padding: 10px; background: #fff; border: 1px solid transparent}
+#qb3 a {color: #444; margin: 10px 0; font-weight: bold}
+#qb3 .row {margin-bottom: 20px}
+
+#qb4 p {text-align: center}
+#qb4 .line3 {margin: 30px auto}
+#qb4 button {background: rgba(153,112,226,.8); color: #fff; letter-spacing: 1px; border: 1px solid transparent}
+#qb4 button:hover {background: rgba(153,112,226,1)}
+#qb4 li {width: 40px; height: 40px; border-radius: 50%; background: #f2f2f2; margin: 0 5px}
+#qb4 li span {color: #374760; font-size: 15px; text-align: center; line-height: 40px}
+
+#btn {background: #aa81f3; width: 47px; height: 21px; position: fixed; right: 20px; bottom: 10px; border-radius: 3px; color: #fff; font-size: 12px;line-height: 21px; letter-spacing: 1px; border: 0 none; outline: none}
+
+.section {padding-top: 50px; padding-bottom: 80px}
+#qb4 h3 {margin-top: 25px}
